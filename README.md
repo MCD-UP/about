@@ -45,4 +45,4 @@ Finalmente, la creación de repositorios tampoco se limita a las asignaturas. Ta
 
 ### Propuestas
 
-Toda propuesta será siempre bienvenida, sea o no parte de la comunidad de la Universidad Panamericana. Cualquier comentario, propuesta o sugerencia podrán ser enviadas al correo dsci.upmx@gmail.com o en forma de un [Issue de este repositorio](https://github.com/MCD-UP/about/issues). 
+Toda propuesta será siempre bienvenida, sea o no por parte de un miembro de la comunidad de la Universidad Panamericana. Cualquier comentario, propuesta o sugerencia podrán ser enviadas al correo dsci.upmx@gmail.com o en forma de un [Issue de este repositorio](https://github.com/MCD-UP/about/issues). 
