@@ -1,6 +1,6 @@
 # Guía de uso del GitHub de la Maestría en Ciencia de Datos de la Universidad Panamericana
 
-El objetivo de la organización es construir entre estudiantes y profesores un repositorio de libre acceso de la Maestría en Ciencia de Datos de la Universidad Panamericana, que reúna de forma estructurada el material visto en clase y proyectos estudiantiles en las asignaturas del primer semestre (y próximamente del segundo), y ponerlo a disposición del resto de la comunidad con interés en el área. 
+El objetivo de la [organización](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) es construir entre estudiantes y profesores un repositorio de libre acceso de la Maestría en Ciencia de Datos de la Universidad Panamericana, que reúna de forma estructurada el material visto en clase y proyectos estudiantiles en las asignaturas del primer semestre (y próximamente del segundo), y ponerlo a disposición del resto de la comunidad con interés en el área. 
 
 <br>
 
