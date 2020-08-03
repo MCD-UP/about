@@ -1,29 +1,37 @@
 # Guía de uso de la organización
 
-El objetivo de la organización es crear un repositorio de libre acceso que reuna el material de clase de todas las asignaturas de la Maestría en Ciencia de Datos de la Universidad Panamericana y ponerlo a disposición del resto de la comunidad con interés en el area. 
+El objetivo de la organización es crear un repositorio de libre acceso que reuna el material de clase de todas las asignaturas de la Maestría en Ciencia de Datos de la Universidad Panamericana y ponerlo a disposición del resto de la comunidad con interés en el área. 
 
-En caso de no estar familiarizado con el software de control de versiones, se recomienda empezar por consultar la [documentación oficial de GitHub](https://docs.github.com/en/github/getting-started-with-github). 
+<br>
+
+:warning: En caso de no estar familiarizado con el software de control de versiones, se recomienda empezar por consultar la [documentación oficial de GitHub](https://docs.github.com/en/github/getting-started-with-github). 
 
 <br>
 
 ### Contenido 
-Se excluye todo material con derechos de confidencialidad con el objetivo de evitar el plagio. 
+:heavy_exclamation_mark: Se excluye todo material con derechos de confidencialidad con el objetivo de evitar el plagio. 
 
-Se excluye todo material que no cuente con la autorización por parte del profesor autor, de ser publicado.  
+:heavy_exclamation_mark: Se excluye todo material que no cuente con la autorización por parte del profesor autor de ser publicado.  
+
+<br>
 
 ### Profesores
-Idealmente, el profesor o profesores de cada asignatura serán los principales responsables en el mantenimiento de cada uno de sus respositorios respectivamente. 
+Idealmente, el profesor o profesores de cada asignatura serán los principales responsables en el mantenimiento de cada uno de los repositorios de sus materias respectivamente. 
 
 Ellos serán quienes inicialicen los repositorios de cada asignatura y estén pendientes de sus *Pull requests* correspondientes.
 
-Profesores: Enviar un correo a dsci.upmx@gmail.com con el nombre de usuario de GitHub para ser añadido como miembro de la organización y poder inicializar el repositorio de su clase, o bien, en caso de que el repositorio de su asignatura ya exista, poder actualizarlo. (Consultar sección de Estructura de un repositorio.) 
+:point_right: Profesores: Enviar un correo a dsci.upmx@gmail.com con el nombre de usuario de GitHub para ser añadido como miembro de la organización. En seguida se la organización le enviará una invitación que deberá aceptar para poder inicializar el repositorio de su clase, o bien, en caso de que el repositorio de su asignatura ya exista, poder actualizarlo. (Consultar sección de Estructura de un repositorio.) 
+
+<br>
 
 ### Estudiantes
 Los estudiantes no podrán crear nuevos repositorios de asignaturas, pero su contribución no se limita. 
 
 Sus contribuciones deberán ser mediante [*Pull requests*](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests). 
 
-Estudiantes: Hay muchas formas de colaborar; corrijan ortografía, sustituyan los códigos vistos en clase con su propio código bien documentado y refactorizado, o compartan sus proyectos finales. (Consultar sección de Estructura de un repositorio.) Participen activamente en este su respositorio. 
+:point_right: Estudiantes: Hay muchas formas de colaborar; corrijan ortografía, sustituyan los códigos vistos en clase con su propio código bien documentado y refactorizado, o compartan sus proyectos finales. (Consultar sección de Estructura de un repositorio.) Participen activamente en este su respositorio. 
+
+<br>
 
 ### Estructura de un repositorio
 
@@ -31,8 +39,12 @@ Los respositorios de cada asignatura no tienen una estructura oficial. Sin embar
 
 Así mismo, al inicializar un repositorio, también se recomienda (según la expertiz del usuario) contruir un [sitio de GitHub](https://pages.github.com/) para la asignatura. (Repositorio ejemplo: [*aprendizaje-automatico-II*](https://github.com/MCD-UP/aprendizaje-automatico-II)).
 
-Finalmente, la creación de repositorios tampoco se limita a asignaturas. Tanto profesores como estudiantes podrán sugerir la creación de respositorios con un objetivo, un uso y una temática diferente a la de una asignatura. 
+Finalmente, la creación de repositorios tampoco se limita a las asignaturas. Tanto profesores como estudiantes podrán sugerir la creación de respositorios con un objetivo, un uso y una temática diferente a la de una asignatura. 
+
+<br>
 
 ### Propuestas
 
 Toda propuesta será siempre bienvenida. Estas podrán ser enviadas al correo dsci.upmx@gmail.com o en forma de un [Issue de este repositorio](https://github.com/MCD-UP/about/issues). 
+
+<br>
