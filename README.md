@@ -1,6 +1,6 @@
 # Guía de uso de la organización
 
-El objetivo de la organización es crear un repositorio de libre acceso que reuna el material de clase de todas las asignaturas de la Maestría en Ciencia de Datos de la Universidad Panamericana y ponerlo a disposición del resto de la comunidad con interés en el área. 
+El objetivo de la organización es construir entre estudiantes y profesores un repositorio de libre acceso de la Maestría en Ciencia de Datos de la Universidad Panamericana, que reúna de forma estructurada todo el material visto en clase y proyectos estudiantiles de todas las asignaturas, y ponerlo a disposición del resto de la comunidad con interés en el área. 
 
 <br>
 
