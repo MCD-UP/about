@@ -35,7 +35,7 @@ Sus contribuciones deberán ser mediante [*Pull requests*](https://docs.github.c
 
 ### Estructura de un repositorio
 
-Los respositorios de cada asignatura no tienen una estructura *oficial*. Sin embargo, se recomienda mantener una estructura simple siguiendo el esquema estandarizado expuesto en la imagen [*directorio_recomendado.png*](https://github.com/MCD-UP/about/blob/master/estructura-de-archivos.png), disponible en este repositorio. (Repositorio ejemplo: [*estadistica*](https://github.com/MCD-UP/estadistica)).
+Los respositorios de cada asignatura no tienen una estructura *oficial*. Sin embargo, se recomienda mantener una estructura simple siguiendo el esquema estandarizado expuesto en la imagen [*directorio_recomendado.png*](https://github.com/MCD-UP/about/blob/master/directorio_recomendado.png), disponible en este repositorio. (Repositorio ejemplo: [*estadistica*](https://github.com/MCD-UP/estadistica)).
 
 Así mismo, al inicializar un repositorio, también se recomienda (según la expertiz del usuario) contruir un [sitio de GitHub](https://pages.github.com/) para la asignatura. (Repositorio ejemplo: [*aprendizaje-automatico-II*](https://github.com/MCD-UP/aprendizaje-automatico-II)).
 
